@@ -9,9 +9,6 @@
     "primary": "#00B5E9",
     "light": "#00B5E9",
     "dark": "#00B5E9",
-    "background": {
-      "dark": "#090014"
-    }
   },
   "topbarLinks": [
     {
