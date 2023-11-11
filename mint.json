@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
   "name": "Roadmape",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -30,27 +29,23 @@
   },
   "tabs": [
     "Documentation"
-    
-  ],
-  "anchors": [
-    
   ],
   "navigation": [
     {
       "group": "Getting Started",
       "pages": [
-        "getting-started/what-is-roadmape", 
-        "getting-started/manage-members-and-roles", 
-        "getting-started/csv-import", 
+        "getting-started/what-is-roadmape",
+        "getting-started/manage-members-and-roles",
+        "getting-started/csv-import",
         "getting-started/account-setup"
       ]
     },
     {
       "group": "Understanding Items",
       "pages": [
-        "understanding-items/items", 
-        "understanding-items/item-types", 
-        "understanding-items/hierarchy", 
+        "understanding-items/items",
+        "understanding-items/item-types",
+        "understanding-items/hierarchy",
         "understanding-items/properties"
       ]
     },
@@ -69,17 +64,10 @@
       "pages": [
         "integrations/jira-integration"
       ]
-    },
-    {
-      "group": "Integrations",
-      "pages": [
-        "integrations/jira-integration"
-      ]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/roadmapecom",
+    "linkedin": "https://www.linkedin.com/company/roadmape"
   }
 }
