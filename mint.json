@@ -64,6 +64,12 @@
         "advanced/public-share"
       ]
     },
+    {
+      "group": "Plans & Billing",
+      "pages": [
+        "plans-and-billing/plans-and-billing"
+      ]
+    }
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/roadmapecom",
