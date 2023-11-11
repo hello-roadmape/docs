@@ -28,8 +28,13 @@
     "url": "https://roadmape.com"
   },
   "tabs": [
-    "Documentation"
+    {
+    "name": "Documentation"
+    }
   ],
+  "primaryTab": {
+    "name": "Documentation"
+},
   "navigation": [
     {
       "group": "Getting Started",
