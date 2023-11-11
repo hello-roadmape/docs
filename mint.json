@@ -57,7 +57,13 @@
       "pages": [
         "integrations/jira-integration"
       ]
-    }
+    },
+    {
+      "group": "Advanced",
+      "pages": [
+        "advanced/public-share"
+      ]
+    },
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/roadmapecom",
