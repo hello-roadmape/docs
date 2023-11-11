@@ -27,14 +27,6 @@
     "name": "Go to Website",
     "url": "https://roadmape.com"
   },
-  "tabs": [
-    {
-    "name": "Documentation"
-    }
-  ],
-  "primaryTab": {
-    "name": "Documentation"
-},
   "navigation": [
     {
       "group": "Getting Started",
