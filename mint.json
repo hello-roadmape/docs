@@ -11,7 +11,8 @@
     "dark": "#00B5E9",
     "background": {
       "dark": "#090014"
-    },
+    }
+  },
   "topbarLinks": [
     {
       "name": "Support",
