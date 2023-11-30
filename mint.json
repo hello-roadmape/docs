@@ -25,7 +25,10 @@
   },
   "navigation": [
     {
-      "pages": "introduction"
+      "group": ""
+      "pages": [
+        "introduction"
+      ]
     },
     {
       "group": "Getting Started",
