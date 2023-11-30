@@ -25,6 +25,9 @@
   },
   "navigation": [
     {
+      "pages": "introduction"
+    },
+    {
       "group": "Getting Started",
       "pages": [
         "getting-started/what-is-roadmape",
