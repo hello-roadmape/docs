@@ -25,6 +25,12 @@
   },
   "navigation": [
     {
+      "group": "",
+      "pages": [
+        "/introduction"
+      ]
+    },
+    {
       "group": "Getting Started",
       "pages": [
         "getting-started/introduction",
