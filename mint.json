@@ -27,13 +27,12 @@
     {
       "group": "",
       "pages": [
-        "introduction"
+        "/introduction"
       ]
     },
     {
       "group": "Getting Started",
       "pages": [
-        "getting-started/introduction",
         "getting-started/what-is-roadmape",
         "getting-started/manage-members-and-roles",
         "getting-started/csv-import",
