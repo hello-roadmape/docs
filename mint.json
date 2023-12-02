@@ -34,7 +34,7 @@
       "group": "Getting Started",
       "pages": [
         "getting-started/what-is-roadmape",
-        "getting-started/manage-members-and-roles",
+        "getting-started/manage-members",
         "getting-started/csv-import",
         "getting-started/account-setup"
       ]
