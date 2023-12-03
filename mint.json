@@ -42,11 +42,10 @@
     {
       "group": "Understanding Items",
       "pages": [
-        "understanding-items/items",
         "understanding-items/item-types",
         "understanding-items/hierarchy",
         "understanding-items/properties",
-        "understanding-items/workflow"
+        "understanding-items/workflow",      "understanding-items/items"
       ]
     },
     {
