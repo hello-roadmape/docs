@@ -61,7 +61,8 @@
     {
       "group": "Integrations",
       "pages": [
-        "integrations/jira-integration"
+        "integrations/jira-integration",
+        "integrations/linear-integration"
       ]
     },
     {
