@@ -75,7 +75,8 @@
     {
       "group": "Plans & Billing",
       "pages": [
-        "plans-and-billing/plans-and-billing"
+        "plans-and-billing/plans",
+        "plans-and-billing/billing"
       ]
     }
   ],
